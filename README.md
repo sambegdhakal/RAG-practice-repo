@@ -38,6 +38,21 @@ Make sure you have Python 3.9+ installed.
 
 
 
+#########################################################################################################################################
+
+This project uses the [ESPN Soccer Data](https://www.kaggle.com/datasets/excel4soccer/espn-soccer-data) dataset from Kaggle for analysis and visualization.
+
+## Dataset Information
+The dataset is licensed under the **MIT License**, originally created and maintained by **Mark Otto** and **Andrew Fong**.
+
+- Dataset Source: [Kaggle - ESPN Soccer Data](https://www.kaggle.com/datasets/excel4soccer/espn-soccer-data)
+- License: [MIT License](data/LICENSE)
+- Copyright © 2013 Mark Otto, 2017 Andrew Fong
+
+I do not claim ownership of this dataset. It is included here under the terms of the MIT License.
+
+
+
 ```bash
 
 \# Groq API client
@@ -61,17 +76,3 @@ pip install --upgrade typing\_extensions
 \# If issues occur with typing\_extensions
 
 python -m pip install --force-reinstall --upgrade typing\_extensions
-
-#########################################################################################################################################
-
-This project uses the [ESPN Soccer Data](https://www.kaggle.com/datasets/excel4soccer/espn-soccer-data) dataset from Kaggle for analysis and visualization.
-
-## Dataset Information
-The dataset is licensed under the **MIT License**, originally created and maintained by **Mark Otto** and **Andrew Fong**.
-
-- Dataset Source: [Kaggle - ESPN Soccer Data](https://www.kaggle.com/datasets/excel4soccer/espn-soccer-data)
-- License: [MIT License](data/LICENSE)
-- Copyright © 2013 Mark Otto, 2017 Andrew Fong
-
-I do not claim ownership of this dataset. It is included here under the terms of the MIT License.
-
